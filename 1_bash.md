@@ -39,7 +39,7 @@ Dużo programów posiada następujące specjalne argumenty:
 ```bash
 > program --version
 > program --help
-> program --verbose # (dalej reszta argumentów) 
+> program --verbose # - tryb "rozgadany" (dalej reszta argumentów) 
 ```
 
 W unixowych środowiskach (Linux, MacOS i WSL) mamy też do dyspozycji komendę `man <program>` (man jak *manual* - instrukcja obsługi).
