@@ -49,6 +49,7 @@ Bardziej zaawansowane tematy do doczytania
 - czytanie z/do pliku `>`/`<`
 - `xargs`
 - `sh`
+- funkcje
 
 ## Ścieżki
 - `pwd` komenda na wypisanie obecnego folderu

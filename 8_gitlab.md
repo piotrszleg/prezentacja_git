@@ -11,7 +11,7 @@ git commit -m "initial commit"
 
 następnie wchodzimy w `bash` i piszemy:
 ```bash
-git clone https://github.com/<nazwa na Gitlabie>/remotes_practice.git
+git clone https://gitlab.com/<username>/remotes_practice.git
 cd remotes_practice
 git checkout -b feature
 echo "Hello world">README.md
@@ -33,6 +33,7 @@ git commit -m "Update README.md"
 Pobieramy zmiany i rozwiązujemy merge conflict (można to robić cyklicznie w czasie pracy nad podprojektem):
 
 ```bash
+git fetch origin
 git checkout master
 git pull
 git checkout feature
