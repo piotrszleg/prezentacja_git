@@ -8,4 +8,5 @@ Dużo IDE ma wtyczki które wykonują operację na repozytorium za nas. Jednak i
 
 ## Zasoby
 
-[książka online](https://git-scm.com/book/en/v2/)
+- [książka online](https://git-scm.com/book/en/v2/)
+- [VS Code Git History Extension](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
