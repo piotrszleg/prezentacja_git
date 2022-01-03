@@ -15,7 +15,8 @@
 > git stash
 # wrzucenie tych zmian z powrotem
 > git stash pop
-# git stash jest ogólnie fajny 
+# git stash jest ogólnie fajny do unikania plików tymczasowych
+# które sprawdzają się jedynie gdy pracujecie na małym repo
 
 # Zmiana brancha:
 > git checkout <nazwa brancha>
