@@ -46,7 +46,7 @@ git push
 git log --graph --oneline --all 
 ```
 
-Wchodzimy na strone remote'a i robimy push request z `feature` na `master`. Powinien przejść.
+Wchodzimy na strone remote'a i robimy merge request z `feature` na `master`. Powinien przejść.
 
 ```bash
 # Na serwerze Gitlaba wykona się

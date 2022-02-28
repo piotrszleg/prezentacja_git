@@ -5,5 +5,3 @@ Merge requesty to takie `git merge` na wyższym poziomie. Robi się je z poziomu
 Można je przeglądać, komentować i zatwierdzać. 
 
 Pozwalają ułatwić organizację pracy i zapobiec dostawaniu się nieskończonego kodu na produkcję (branch `master` jest domyślnie blokowany dla zwykłych deweloperów).
-
-![](panie_areczku.png)

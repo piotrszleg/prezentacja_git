@@ -1,7 +1,7 @@
 ```bash
 # Łączenie repozytorium z repozytorium online:
 > git remote add origin <.git link>
-> git remote -v # sprawdzenie
+> git remote -v # sprawdzenie podpiętych repozytoriów 
 
 # Klonowanie istniejącego repozytorium z internetu:
 > git clone <.git link>
@@ -22,9 +22,18 @@
 > git checkout <nazwa brancha>
 # Zmiana brancha na nowy:
 > git checkout -b <nazwa brancha>
+# Zmiana nazwy branch
+> git branch -m <nowa nazwa brancha>
 
 # powrót do wcześniejszego commit'a
 > git checkout <id> .
+# powrót na branch
 > git stash
 > git reset --hard
+
+# cherry pick
+git cherry-pick <commit>
+
+# interaktywna redukcja commitów 
+> git rebase -i master
 ```

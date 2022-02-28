@@ -29,7 +29,8 @@ W przeciwieństwie do większości języków programowania wszystko co wpisujemy
 
 Myślnik (lub dwa myślniki) przed argumentem nie są częścią składnik bash'a, `-o` trafi do programu dokładnie jako `-o`. Dużo programów jednak traktuje argumenty z myślnikami jako klucze a bez myślników jako wartości. 
 
-Popularną konwencją jest też używanie takiego wzorca argumentów:
+Przykładowo popularną konwencją jest też używanie takiego wzorca argumentów:
+
 ```bash
 > program -i plik_wejsciowy -o plik_wyjsciowy
 ```
@@ -46,7 +47,7 @@ W unixowych środowiskach (Linux, MacOS i WSL) mamy też do dyspozycji komendę 
 
 Bardziej zaawansowane tematy do doczytania
 - przekierowywanie strumieni operatorem `|`
-- czytanie z/do pliku `>`/`<`
+- czytanie z/do pliku `>`/`<` ( `>>` to dopisanie do pliku )
 - `xargs`
 - `sh`
 - funkcje

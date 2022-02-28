@@ -6,7 +6,7 @@ Posiada także wbudowaną komunikację sieciową która robi mniej więcej dwie 
 - przerzuca folder `.git` między serwerem a klientami
 - wykrywa konflikty, np.: dwa różne branch'e o tej samej nazwie, nieliniowa historia brancha
 
-Gitlab i Github to popularne serwisy hostujące serwery git wraz z interfejsem webowym.
+Gitlab i Github to popularne serwisy hostujące serwery gita wraz z interfejsem webowym.
 
 # Source Tree, VS Code, PyCharm 
 
