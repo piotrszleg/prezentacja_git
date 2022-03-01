@@ -15,3 +15,12 @@ Każdy feature powinien być osobnym branch'em chociaż nie zawsze da się to os
 ## Pull request
 
 Cały sens pull request'a to dokumentacja zmian wprowadzonych z branch'em. Powinno się do niego skopiować najważniejsze punkty z commit'ów, uzasadnić zmiany oraz przybliżyć sposób użycia nowych konstrukcji czytającym.
+
+# Częste problemy z repozytoriami
+
+- brak porządnego README.md (opis, instalacja, uruchamianie, testy)
+- powtarzalność plików
+    - .gitmodules
+    - package managers
+    - skrypty instalacyjne 
+- nieregularna struktura plików 
