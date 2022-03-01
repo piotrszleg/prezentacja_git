@@ -25,6 +25,7 @@ class Branch {
 class Commit {
     File* files[];
     Commit* previous[];
+    Commit* next[];
 }
 
 ```
